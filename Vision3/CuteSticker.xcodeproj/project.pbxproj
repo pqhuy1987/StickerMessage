@@ -254,7 +254,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = TG2EV7Y5KC;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick3.100.ex;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick8.100.ex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -266,7 +266,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = TG2EV7Y5KC;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick3.100.ex;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick8.100.ex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -278,7 +278,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = TG2EV7Y5KC;
 				INFOPLIST_FILE = CuteSticker/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick3.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick8.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -290,7 +290,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = TG2EV7Y5KC;
 				INFOPLIST_FILE = CuteSticker/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick3.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vision.stick8.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
